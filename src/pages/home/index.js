@@ -10,6 +10,7 @@ function HomePage() {
     <div className="home">
       <Banner />
       <div className="home__section">
+        welcome
         <Products />
       </div>
     </div>
