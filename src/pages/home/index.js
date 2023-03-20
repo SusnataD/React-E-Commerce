@@ -11,7 +11,7 @@ function HomePage() {
       <Banner />
       <div className="home__section">
         <Products />
-        welcome Guyzz
+        welcome Guyzz !
       </div>
     </div>
   );
